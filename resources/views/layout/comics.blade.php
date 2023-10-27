@@ -18,6 +18,7 @@
             @endforeach
         </div>
         <button class="btn btn-primary mt-3 mb-3 custom_button"><strong>LOAD MORE</strong></button>
+
     </div>
 </main>
 

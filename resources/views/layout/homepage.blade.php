@@ -7,5 +7,6 @@
         <button class="current_button"><strong>HOMEPAGE</strong></button>
     </div>
 
+
 </main>
 @endsection
